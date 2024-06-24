@@ -1,5 +1,5 @@
 // Luis M. Villalobos (1224922959)
-// CSE310 - Recitation 4
+// CSE310 - HW 4 "Implementation of BST"
 
 #include <iostream>
 #include <cstdlib>
